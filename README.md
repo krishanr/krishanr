@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Krishan Rajaratnam</h1>
+<h1 align="center">Hi 👋, I'm Krishan Rajaratnam.</h1>
 <h3 align="center">A passionate senior machine learning engineer.</h3>
 
-- 🔭 I’m currently working on [Zotero RAG](https://github.com/krishanr/zoterorag)
+- 🔭 I’m currently working on [Zotero RAG](https://github.com/krishanr/zoterorag).
 
-- 🌱 I’m currently learning **LangGraph and Qdrant**
+- 🌱 I’m currently learning **LangGraph and Qdrant**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishanr?tab=repositories](https://github.com/krishanr?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/krishanr?tab=repositories](https://github.com/krishanr?tab=repositories).
 
-- 📫 How to reach me **krishan2500@gmail.com**
+- 📫 How to reach me **krishan2500@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
