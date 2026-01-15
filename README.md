@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krishan Rajaratnam.</h1>
+<img src="Business Forum.png">
+
 <h3 align="center">A passionate senior machine learning engineer.</h3>
 
 - 🔭 I’m currently working on [Zotero RAG](https://github.com/krishanr/zoterorag).
