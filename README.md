@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **LangGraph and Qdrant**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishanr?tab=repositories](https://github.com/krishanr?tab=repositories).
-
-- 📫 How to reach me **krishan2500@gmail.com**.
+- 👨‍💻 All of my projects are available at [https://github.com/krishanr?tab=repositories](https://github.com/krishanr?tab=repositories), and my [blog](https://krishanr.github.io/blog/) is available here.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
